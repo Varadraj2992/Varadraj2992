@@ -24,7 +24,7 @@ Building data-driven solutions, predictive machine learning models, interactive 
 ## 🛠️ Tech Stack
 
 ### 🐍 Programming Languages
-Python • SQL • DAX
+Py • SQL • DAX
 
 ### 📊 Data Analysis & Visualization
 Pandas • NumPy • Matplotlib • Seaborn • Power BI • Excel

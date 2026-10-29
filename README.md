@@ -1,18 +1,119 @@
-# 💫 About Me:
-🔭 I’m currently working on Data Analytics, Machine Learning & Business Intelligence projects  <br>👯 I’m looking to collaborate on Data Science, Data Analytics & ML projects  <br>🤝 I’m looking for help with Advanced Machine Learning & Big Data Technologies  <br>🌱 I’m currently learning Predictive Analytics, Big Data & Machine Learning  <br>💬 Ask me about Python, SQL, Power BI, Tableau, Excel & Data Visualization  <br>⚡ Fun fact: I love discovering stories hidden inside data 📊
+# 👋 Hi, I'm Varadraj Bhandare
 
+### Data Science & Analytics | Machine Learning | Python Developer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varad-bhandare-7186a6333/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhandarevaradraj@gmail.com) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Varadraj2992&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Varadraj2992&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Varadraj2992&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Building data-driven solutions, predictive machine learning models, interactive dashboards, and analytical applications to solve real-world problems.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Varadraj2992&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+- 🎓 Pursuing M.Sc. in Data Science & Big Data Analytics
+- 📊 Interested in transforming raw data into meaningful insights and business decisions
+- 🤖 Building machine learning models for predictive analytics and classification problems
+- 🐍 Working with Python, SQL, data analysis, and machine learning
+- 📈 Developing interactive dashboards and data visualization solutions using Power BI
+- 🧠 Exploring Explainable AI (XAI) to understand and interpret machine learning predictions
+- 🗄️ Working with relational databases and data processing workflows
+- 🛠️ Building practical projects that combine data analytics, machine learning, and application development
+- 🚀 Continuously improving my skills in statistics, predictive modeling, and data-driven problem-solving
+- 🎯 Aspiring to build reliable, interpretable, and business-focused data science solutions
+
+---
+
+## 🛠️ Tech Stack
+
+### 🐍 Programming Languages
+Python • SQL • DAX
+
+### 📊 Data Analysis & Visualization
+Pandas • NumPy • Matplotlib • Seaborn • Power BI • Excel
+
+### 🤖 Machine Learning & AI
+Scikit-learn • XGBoost • Classification • Predictive Modeling • Model Evaluation • Feature Engineering • SHAP • Explainable AI
+
+### 🗄️ Databases
+MySQL • MySQL Workbench • SQL Queries • Data Modeling
+
+### 📈 Business Intelligence
+Power BI • DAX Measures • Data Modeling • Interactive Dashboards • KPI Analysis • Data Visualization
+
+### 🌐 Application Development
+Streamlit • Python Application Development • Interactive Data Applications
+
+### 🧰 Tools & Development
+Git • GitHub • VS Code • Jupyter Notebook • Python Virtual Environments
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Startup Success Predictor
+A machine learning application designed to analyze startup-related data and predict startup outcomes.
+
+**Key Highlights**
+- Machine learning-based prediction
+- XGBoost classification and model evaluation
+- Performance analysis using classification metrics and ROC curves
+- SHAP-based explanations for individual predictions
+- Interactive application built with Streamlit
+
+🔗 **Repository:** [Startup Success Predictor](https://github.com/Varadraj2992/Startup-Success-Prediction)
+
+### 2. Job Market Intelligence
+A data analytics and business intelligence project focused on exploring job market trends, salary insights, and in-demand skills.
+
+**Key Highlights**
+- Job market data analysis using SQL
+- Salary and employment trend analysis
+- Skills demand analysis
+- Interactive Power BI dashboards
+- Data modeling and business-focused visualizations
+
+🔗 **Repository:** Add your Job Market Intelligence repository link here.
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Python for Data Science
+- SQL and analytical problem-solving
+- Machine Learning and model optimization
+- Exploratory Data Analysis (EDA)
+- Feature Engineering and Model Evaluation
+- Power BI and DAX
+- Explainable AI and model interpretability
+- End-to-end machine learning applications
+- Building portfolio projects based on real-world problems
+
+## 📚 Currently Learning
+
+- Advanced Machine Learning
+- Statistical Analysis and Probability
+- Feature Selection and Hyperparameter Tuning
+- Data Engineering Fundamentals
+- Model Deployment and MLOps
+- Advanced Power BI and Business Intelligence
+
+---
+
+## 📌 Career Interests
+
+- Data Scientist
+- Data Analyst
+- Machine Learning Engineer
+- Business Intelligence Analyst
+- Junior AI/ML Engineer
+
+---
+
+## 🤝 Connect With Me
+
+- **GitHub:** [@Varadraj2992](https://github.com/Varadraj2992)
+- **LinkedIn:** Add your LinkedIn profile URL here
+
+I'm interested in collaborating on data science projects, machine learning applications, analytics solutions, and open-source initiatives.
+
+---
+
+⭐ *Building, learning, and improving through data-driven projects.*

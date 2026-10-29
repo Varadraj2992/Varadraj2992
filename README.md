@@ -136,7 +136,7 @@ A data analytics and business intelligence project focused on exploring job mark
 ## 🤝 Connect With Me
 
 - **GitHub:** [@Varadraj2992](https://github.com/Varadraj2992)
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** https://www.linkedin.com/in/varad-bhandare-7186a6333/
 
 I'm interested in collaborating on data science projects, machine learning applications, analytics solutions, and open-source initiatives.
 

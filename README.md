@@ -1,74 +1,113 @@
-# 👋 Hi, I'm Varadraj Bhandare
+<h1 align="center">Varadraj Bhandare</h1>
 
-### Data Science & Analytics | Machine Learning | Python Developer
+<h3 align="center">Data Science & Analytics • Machine Learning • Python Developer</h3>
 
-Building data-driven solutions, predictive machine learning models, interactive dashboards, and analytical applications to solve real-world problems.
+<p align="center">
+  Building predictive models, interactive dashboards, and data-driven solutions that turn raw data into actionable business insights.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Data+Science;Analytics;Machine+Learning;Python+Developer;Power+BI;Predictive+Modeling;Business+Insights" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Varadraj2992">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:bhandarevaradraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing M.Sc. in Data Science & Big Data Analytics
-- 📊 Interested in transforming raw data into meaningful insights and business decisions
-- 🤖 Building machine learning models for predictive analytics and classification problems
-- 🐍 Working with Python, SQL, data analysis, and machine learning
-- 📈 Developing interactive dashboards and data visualization solutions using Power BI
-- 🧠 Exploring Explainable AI (XAI) to understand and interpret machine learning predictions
-- 🗄️ Working with relational databases and data processing workflows
-- 🛠️ Building practical projects that combine data analytics, machine learning, and application development
-- 🚀 Continuously improving my skills in statistics, predictive modeling, and data-driven problem-solving
-- 🎯 Aspiring to build reliable, interpretable, and business-focused data science solutions
+- Pursuing M.Sc. in Data Science & Big Data Analytics
+- Passionate about transforming raw data into meaningful insights and business decisions
+- Building machine learning models for predictive analytics and classification problems
+- Working with Python, SQL, data analysis, and machine learning techniques
+- Developing interactive dashboards and visualizations using Power BI and Excel
+- Exploring Explainable AI (XAI) to interpret and explain model predictions
+- Working with relational databases, data preprocessing, and business analytics workflows
+- Creating practical projects that combine analytics, AI, and application development
+- Continuously improving in statistics, predictive modeling, and data-driven decision-making
+- Aspiring to build reliable, interpretable, and business-focused data science solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🐍 Programming Languages
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
-[![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dax/)
+### 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql&theme=dark" />
+</p>
+
+`Python`  `SQL`  `DAX`
+
+---
 
 ### 📊 Data Analysis & Visualization
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,excel,notion&theme=dark" />
+</p>
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Excel`
+
+---
 
 ### 🤖 Machine Learning & AI
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-FFB000?style=for-the-badge&logo=xgboost&logoColor=black)](https://xgboost.readthedocs.io/)
-[![Classification](https://img.shields.io/badge/Classification-6A5ACD?style=for-the-badge)](https://scikit-learn.org/stable/modules/classes.html)
-[![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-0088CC?style=for-the-badge)](https://en.wikipedia.org/wiki/Predictive_analytics)
-[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-00A896?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
-[![SHAP](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=python&logoColor=white)](https://shap.readthedocs.io/)
-[![Explainable AI](https://img.shields.io/badge/Explainable_AI-FF6F61?style=for-the-badge)](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+</p>
+
+`Scikit-learn` `XGBoost` `Classification` `Predictive Modeling` `Model Evaluation` `Feature Engineering` `SHAP` `Explainable AI`
+
+---
 
 ### 🗄️ Databases
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-005C84?style=for-the-badge)](https://www.mysql.com/products/workbench/)
-[![SQL Queries](https://img.shields.io/badge/SQL_Queries-2C3E50?style=for-the-badge)](https://www.w3schools.com/sql/)
-[![Data Modeling](https://img.shields.io/badge/Data_Modeling-7F5AF0?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_model)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite&theme=dark" />
+</p>
+
+`MySQL` `MySQL Workbench` `SQL Queries` `Data Modeling`
+
+---
 
 ### 📈 Business Intelligence
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![DAX Measures](https://img.shields.io/badge/DAX_Measures-0078D4?style=for-the-badge)](https://learn.microsoft.com/en-us/dax/)
-[![Data Modeling](https://img.shields.io/badge/Data_Modeling-7F5AF0?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_model)
-[![Interactive Dashboards](https://img.shields.io/badge/Interactive_Dashboards-00B894?style=for-the-badge)](https://powerbi.microsoft.com/)
-[![KPI Analysis](https://img.shields.io/badge/KPI_Analysis-00A8E8?style=for-the-badge)](https://en.wikipedia.org/wiki/Performance_indicator)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau&theme=dark" />
+</p>
+
+`Power BI` `DAX Measures` `Data Modeling` `Interactive Dashboards` `KPI Analysis` `Data Visualization`
+
+---
 
 ### 🌐 Application Development
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Python Apps](https://img.shields.io/badge/Python_Apps-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Interactive Data Apps](https://img.shields.io/badge/Interactive_Data_Apps-5B2C6F?style=for-the-badge)](https://streamlit.io/)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=streamlit,flask&theme=dark" />
+</p>
+
+`Streamlit` `Python Application Development` `Interactive Data Applications`
+
+---
 
 ### 🧰 Tools & Development
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Python Virtual Environments](https://img.shields.io/badge/Python_Virtual_Environments-3776AB?style=for-the-badge)](https://docs.python.org/3/tutorial/venv.html)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,anaconda&theme=dark" />
+</p>
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook` `Python Virtual Environments`
 
 ---
 
@@ -102,24 +141,26 @@ A data analytics and business intelligence project focused on exploring job mark
 
 ## 🎯 Current Focus
 
-- Advanced Python for Data Science
-- SQL and analytical problem-solving
-- Machine Learning and model optimization
-- Exploratory Data Analysis (EDA)
-- Feature Engineering and Model Evaluation
-- Power BI and DAX
-- Explainable AI and model interpretability
-- End-to-end machine learning applications
-- Building portfolio projects based on real-world problems
+```yaml
+focus:
+  - Advanced Python for Data Science
+  - SQL and analytical problem solving
+  - Machine Learning and model optimization
+  - Exploratory Data Analysis (EDA)
+  - Feature Engineering and Model Evaluation
+  - Power BI and DAX
+  - Explainable AI and model interpretability
+  - End-to-end machine learning applications
+  - Portfolio projects based on real-world problems
 
-## 📚 Currently Learning
-
-- Advanced Machine Learning
-- Statistical Analysis and Probability
-- Feature Selection and Hyperparameter Tuning
-- Data Engineering Fundamentals
-- Model Deployment and MLOps
-- Advanced Power BI and Business Intelligence
+learning:
+  - Advanced Machine Learning
+  - Statistical Analysis and Probability
+  - Feature Selection and Hyperparameter Tuning
+  - Data Engineering Fundamentals
+  - Model Deployment and MLOps
+  - Advanced Power BI and BI Insights
+```
 
 ---
 
@@ -136,10 +177,14 @@ A data analytics and business intelligence project focused on exploring job mark
 ## 🤝 Connect With Me
 
 - **GitHub:** [@Varadraj2992](https://github.com/Varadraj2992)
-- **LinkedIn:** https://www.linkedin.com/in/varad-bhandare-7186a6333/
+- **Email:** [bhandarevaradraj@gmail.com](mailto:bhandarevaradraj@gmail.com)
 
-I'm interested in collaborating on data science projects, machine learning applications, analytics solutions, and open-source initiatives.
+I’m interested in collaborating on data science projects, machine learning applications, analytics solutions, and open-source initiatives.
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Building%20-%20Learning%20-%20Improving-00C2FF?style=for-the-badge&labelColor=111827" />
+</p>
 
 ⭐ *Building, learning, and improving through data-driven projects.*

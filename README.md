@@ -173,18 +173,3 @@ learning:
 - Junior AI/ML Engineer
 
 ---
-
-## 🤝 Connect With Me
-
-- **GitHub:** [@Varadraj2992](https://github.com/Varadraj2992)
-- **Email:** [bhandarevaradraj@gmail.com](mailto:bhandarevaradraj@gmail.com)
-
-I’m interested in collaborating on data science projects, machine learning applications, analytics solutions, and open-source initiatives.
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Building%20-%20Learning%20-%20Improving-00C2FF?style=for-the-badge&labelColor=111827" />
-</p>
-
-⭐ *Building, learning, and improving through data-driven projects.*

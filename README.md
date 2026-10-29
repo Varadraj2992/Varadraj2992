@@ -24,25 +24,51 @@ Building data-driven solutions, predictive machine learning models, interactive 
 ## 🛠️ Tech Stack
 
 ### 🐍 Programming Languages
-Py • SQL • DAX
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
+[![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/dax/)
 
 ### 📊 Data Analysis & Visualization
-Pandas • NumPy • Matplotlib • Seaborn • Power BI • Excel
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
 ### 🤖 Machine Learning & AI
-Scikit-learn • XGBoost • Classification • Predictive Modeling • Model Evaluation • Feature Engineering • SHAP • Explainable AI
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-FFB000?style=for-the-badge&logo=xgboost&logoColor=black)](https://xgboost.readthedocs.io/)
+[![Classification](https://img.shields.io/badge/Classification-6A5ACD?style=for-the-badge)](https://scikit-learn.org/stable/modules/classes.html)
+[![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-0088CC?style=for-the-badge)](https://en.wikipedia.org/wiki/Predictive_analytics)
+[![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-00A896?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
+[![SHAP](https://img.shields.io/badge/SHAP-000000?style=for-the-badge&logo=python&logoColor=white)](https://shap.readthedocs.io/)
+[![Explainable AI](https://img.shields.io/badge/Explainable_AI-FF6F61?style=for-the-badge)](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)
 
 ### 🗄️ Databases
-MySQL • MySQL Workbench • SQL Queries • Data Modeling
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-005C84?style=for-the-badge)](https://www.mysql.com/products/workbench/)
+[![SQL Queries](https://img.shields.io/badge/SQL_Queries-2C3E50?style=for-the-badge)](https://www.w3schools.com/sql/)
+[![Data Modeling](https://img.shields.io/badge/Data_Modeling-7F5AF0?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_model)
 
 ### 📈 Business Intelligence
-Power BI • DAX Measures • Data Modeling • Interactive Dashboards • KPI Analysis • Data Visualization
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![DAX Measures](https://img.shields.io/badge/DAX_Measures-0078D4?style=for-the-badge)](https://learn.microsoft.com/en-us/dax/)
+[![Data Modeling](https://img.shields.io/badge/Data_Modeling-7F5AF0?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_model)
+[![Interactive Dashboards](https://img.shields.io/badge/Interactive_Dashboards-00B894?style=for-the-badge)](https://powerbi.microsoft.com/)
+[![KPI Analysis](https://img.shields.io/badge/KPI_Analysis-00A8E8?style=for-the-badge)](https://en.wikipedia.org/wiki/Performance_indicator)
 
 ### 🌐 Application Development
-Streamlit • Python Application Development • Interactive Data Applications
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Python Apps](https://img.shields.io/badge/Python_Apps-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Interactive Data Apps](https://img.shields.io/badge/Interactive_Data_Apps-5B2C6F?style=for-the-badge)](https://streamlit.io/)
 
 ### 🧰 Tools & Development
-Git • GitHub • VS Code • Jupyter Notebook • Python Virtual Environments
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Python Virtual Environments](https://img.shields.io/badge/Python_Virtual_Environments-3776AB?style=for-the-badge)](https://docs.python.org/3/tutorial/venv.html)
 
 ---
 

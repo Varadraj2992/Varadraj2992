@@ -43,8 +43,12 @@
 
 ### 👨‍💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="65" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="SQL" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="35" alt="DAX" />
 </p>
 
 `Python`  `SQL`  `DAX`
